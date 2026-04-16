@@ -1,51 +1,116 @@
-# 👤 Saif | Cybersecurity Student
+# ⚡ Saif | Cybersecurity Operator
+<img width="647" height="643" alt="image" src="https://github.com/user-attachments/assets/e0040808-1997-40b9-8d99-36c46cd953cf" />
 
-![Anonymous Logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Anonymous_emblem.svg)
 
-🎓 Cybersecurity Student | 🌐 Networking Enthusiast | 💻 C++ Developer | 🔍 OSINT Explorer | 🛡️ Ethical Hacking Beginner  
 
----
 
-## 🚀 About Me
-- 🎓 Passionate about Cybersecurity & SOC Operations
-- 🌐 Skilled in Networking (GNS3, VirtualBox, Ubuntu)
-- 💻 C++ Developer with hands-on projects
-- 🔍 OSINT practitioner (Open Source Intelligence)
-- 🛡️ Exploring Ethical Hacking & Red Teaming
+
++ I don’t follow systems. I analyze them, break them, then rebuild them stronger.
+```
 
 ---
 
-## 🛠️ Skills
-- **Networking**: GNS3, VirtualBox, Routers & Switches
-- **Programming**: C++ / Qt
-- **Cybersecurity**: SIEM Basics, Splunk, OSINT
-- **Ethical Hacking**: Reconnaissance, Beginner Labs
+## 🧠 Who Am I
+
+🎓 Cybersecurity student turning knowledge into **real-world capability**
+🛡️ Future **SOC Analyst** focused on detection, analysis, and defense
+🌐 Networking enthusiast obsessed with how infrastructure truly works
+⚔️ Learning attacker mindset to build unbreakable systems
 
 ---
 
-## 📚 Projects
-| Project                  | Type   | Link | Status |
-|--------------------------|--------|------|--------|
-| SOC-GNS3-Topology        | GitHub | [Repo](https://github.com/cysoftware/soc-Gns3-topology) | Active ✅ |
-| Splunk Configurations    | GitHub | [Repo](#) | Active ✅ |
-| OSINT Tools Collection   | GitHub | [Repo](#) | Active ✅ |
-| C++ Networking Scripts   | GitHub | [Repo](#) | Active ✅ |
+## 🔥 What I Actually Do
+
+* 🛠️ Build **SOC environments that simulate real-world attacks**
+* 📊 Analyze logs & detect suspicious behavior using SIEM tools
+* 🌐 Design, test, and break network infrastructures (GNS3 Labs)
+* 🔍 Perform OSINT investigations using real techniques
+* 💻 Develop C++ tools for automation & experimentation
 
 ---
 
-## 🏆 Achievements
-- 🔧 Built custom GNS3 topologies for SOC training
-- 📊 Indexed & monitored logs with Splunk
-- 🔍 Conducted OSINT investigations for practice
-- 🛡️ Started ethical hacking journey with labs
+## 🧰 Arsenal
+
+### 🌐 Networking
+
+`GNS3` • `VirtualBox` • `Ubuntu` • Routing • Switching • Network Design
+
+### 🛡️ Cybersecurity
+
+`Splunk` • SIEM • Log Analysis • Event Correlation • Detection Thinking
+
+### ⚔️ Offensive
+
+OSINT • Recon • Attack Surface Analysis • Lab Exploitation
+
+### 💻 Development
+
+C++ • Qt • Automation • System-level Thinking
 
 ---
 
-## 🌍 Connect With Me
-- 🌐 [LinkedIn](#)
-- 💻 [Portfolio Website](#)
-- 🐦 [Twitter](#)
+## 🚀 Projects That Matter
+
+### 🛡️ SOC Infrastructure Lab
+
+🔗 https://github.com/cysoftware/soc-Gns3-topology
+
+> Realistic SOC simulation with traffic flow, logging, and monitoring
 
 ---
 
-> *"Knowledge is free. We are Anonymous. We are Legion. We do not forgive. We do not forget."*
+### 📊 Splunk Detection Lab
+
+> Log ingestion, dashboards, and detection scenarios
+
+---
+
+### 🔍 OSINT Operations Kit
+
+> Real-world inspired investigation workflows
+
+---
+
+### 💻 C++ Security Tools
+
+> Custom utilities for networking & security testing
+
+---
+
+## 🧬 Mindset
+
+```
+I don’t watch attacks.
+I understand them.
+
+I don’t trust systems.
+I test them.
+
+I don’t stop at learning.
+I build, break, and evolve.
+```
+
+---
+
+## 🎯 Current Mission
+
+* 🎯 Becoming a **professional SOC Analyst**
+* 🧠 Mastering detection & threat analysis
+* ⚔️ Expanding into red team fundamentals
+* 🔬 Building projects that prove real skills
+
+---
+
+## 🌍 Contact
+
+* LinkedIn → [Add Link]
+* Portfolio → [Add Link]
+
+---
+
+## ⚠️ Signature
+
+```diff
+- Just another student.
++ Future defender of real systems.
+```
