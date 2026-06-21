@@ -1,5 +1,6 @@
 # Cybersecurity Student | SOC Enthusiast | Networking | C++ Developer | OSINT | Ethical Hacking Beginner
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4cdffe18-1c3d-42b1-b359-0c1e499dc601" alt="Anonymous Logo" width="250" height="250"/>
+<img width="640" height="480" alt="image" src="https://github.com/user-attachments/assets/1af48ec5-df55-4f1f-972d-705b583da8f9" />
 </p>
+
