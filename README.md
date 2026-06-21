@@ -3,6 +3,8 @@
 <p align="center">
   <!-- Badge Stand With Palestine + Ceasefire Now جنب بعض -->
   <img width="155" height="20" alt="StandWithPalestine" src="https://github.com/user-attachments/assets/88b48ae1-7921-4528-89a7-5e98255af4ff" />
+    <!-- Palestine Badge -->
+  <img width="236" height="20" alt="Palestine Badge" src="https://github.com/user-attachments/assets/69e45b09-65ac-400c-b338-383751795562" />
 </p>
 
 <p align="center">
@@ -10,7 +12,3 @@
   <img width="640" height="480" alt="Anonymous Logo" src="https://github.com/user-attachments/assets/a89130df-97b8-486d-9cc4-bcdafa635344" />
 </p>
 
-<p align="center">
-  <!-- Palestine Badge -->
-  <img width="236" height="20" alt="Palestine Badge" src="https://github.com/user-attachments/assets/69e45b09-65ac-400c-b338-383751795562" />
-</p>
