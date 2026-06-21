@@ -11,7 +11,3 @@
   <img width="640" height="480" alt="Anonymous Logo" src="https://github.com/user-attachments/assets/a89130df-97b8-486d-9cc4-bcdafa635344" />
 </p>
 
-<p align="center">
-  <!-- Palestine Badge -->
-  <img width="236" height="20" alt="Palestine Badge" src="https://github.com/user-attachments/assets/69e45b09-65ac-400c-b338-383751795562" />
-</p>
